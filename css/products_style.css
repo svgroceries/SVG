@@ -1,0 +1,54 @@
+.previousbutton{
+	width: 25%;
+	height: 30px;
+	text-align: center;
+	vertical-align: center;
+	background-color: #006600;
+	margin: 1px;
+	float: left;
+}
+.nextbutton{
+	width: 25%;
+	height: 30px;
+	text-align: center;
+	vertical-align: center;
+	background-color: #006600;
+	margin: 1px;
+	float: right;
+}
+.menu{
+	margin-bottom: 50px;
+}
+
+.probtnbac{
+background-image: url("images/menu background.jpg");
+background-repeat: repeat-x;
+
+}
+table {
+	width: 100%;
+	margin: 0px auto;
+	text-align: center;
+	border: 0px;
+	}
+tr{
+	height:100px;
+	}
+td{
+	padding: 20px;
+
+}
+h4.prodtext{
+	text-align: center;
+}
+.thumbnail{
+	float: top;
+}
+.prodimage{
+		width: 100px;
+		height:100px;
+	}
+.Prodlist{
+	text-align: center;
+	margin: 0px 0px 0px 0px;
+}
